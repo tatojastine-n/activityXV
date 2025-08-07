@@ -1,0 +1,7 @@
+C:\Users\HP\source\repos\Sliding Window Sum\bin\Debug\Sliding Window Sum.exe.config
+C:\Users\HP\source\repos\Sliding Window Sum\bin\Debug\Sliding Window Sum.exe
+C:\Users\HP\source\repos\Sliding Window Sum\bin\Debug\Sliding Window Sum.pdb
+C:\Users\HP\source\repos\Sliding Window Sum\obj\Debug\Sliding Window Sum.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\Sliding Window Sum\obj\Debug\Sliding Window Sum.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\Sliding Window Sum\obj\Debug\Sliding Window Sum.exe
+C:\Users\HP\source\repos\Sliding Window Sum\obj\Debug\Sliding Window Sum.pdb
